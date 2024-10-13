@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "name": "Mèo Anh Lông Ngắn",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.-RaIoDl0_uGYZ7MKm473XwHaFj&pid=Api&P=0&h=180",
+      "price": "135554232",
+      "description": "Mèo ",
+      "id": 5
+    },
+    {
+      "name": "Dong ho smart band 1",
+      "image": "https://th.bing.com/th/id/OIP.3tCZx-9lz8DjRDPA7qQIqAHaE8?w=1200&h=800&rs=1&pid=ImgDetMain",
+      "price": "12000000",
+      "description": "",
+      "id": 6
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "image": "https://cdn.nguyenkimmall.com/images/detailed/711/10048376-dien-thoai-samsung-galaxy-s21-8gb-128gb-tim-1.jpg",
+      "price": "123214343",
+      "description": "Điện thoại chính hãng",
+      "id": 7
+    },
+    {
+      "name": "Iphone 14 Promax",
+      "image": "https://th.bing.com/th/id/R.646d2c9207d08a13504235a01272696a?rik=RJzg4LaA4fNVPA&pid=ImgRaw&r=0",
+      "price": "1333334524",
+      "description": "Điện thoại chính hãng",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "email": "maittnph53323@gmail.com",
+      "password": "$2a$10$HSkWBQZPFDNufC6kzbqpFuY/SzjcFtD6wfrIolJySUlm4gpcTx9pK",
+      "name": "mai tran",
+      "id": 1
+    },
+    {
+      "email": "trang@gmail.com",
+      "password": "$2a$10$I3L/9qVYgVAFZEHtRbkSruRqkAGod5xVGG0EQWpVvj7JdQemUejwm",
+      "name": "thuy trang",
+      "id": 2
+    },
+    {
+      "email": "ngocmai@gmail.com",
+      "password": "$2a$10$EsbKQ9BqWuqmFt9Lj8J2qOtA5dHGmNGFh2nwYSndLmhw6uLZR/TB6",
+      "name": "mai",
+      "id": 3
+    },
+    {
+      "email": "maittnph5323@gmail.com",
+      "password": "$2a$10$vVhevKZx2vBxY.ZWr.tqx.dXaD7MH853ztuiUEHf7Z3oIFPf4eeuW",
+      "name": "mai tran",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "mai@gmail.com",
+      "password": "$2a$10$gK8XyFBWofkXqW/ESsTl4.2gPbcGRXrhqfWhdMNwd50LC1AVScz/i",
+      "name": "mai tran",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "maiadmin@gmail.com",
+      "password": "$2a$10$R3SOk9gKXv3bf8BlNazF2e/L8D2RiUNOO8sUyWUjPIOifISL3IQ7O",
+      "name": "mai tran",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$oELujJDDdW5w17YFV3XVGez51x0rrezr4gSsyS3.iWy61E05AlpPG",
+      "name": "ngoc",
+      "role": "admin",
+      "id": 7
+    }
+  ]
+  
+}
